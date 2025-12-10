@@ -82,4 +82,5 @@ This project is designed for:
 ## 🧑‍💻 Author
 
 Developed by: Vu Bao Chau Nguyen, Ph.D.
+
 Keywords: Cyclic Voltammetry (CV), Data Augmentation, Machine Learning, Electrochemistry.
