@@ -24,11 +24,11 @@ pip install numpy scipy pandas matplotlib
 | File Name | Location | Description |
 | :--- | :--- | :--- |
 | `CV_data.csv` | `data/` | **Raw cyclic voltammetry data** for input. |
-| `script1_simple_transforms.py` | `scripts/` | Augmentation using **Simple Voltage Shift** and **Current Scaling**. |
-| `script2_baseline_drift.py` | `scripts/` | Augmentation using **Baseline Drift**. |
-| `script3_peak_modifications.py` | `scripts/` | Augmentation using **Peak Broadening** and **Voltage Wrapping**. |
-| `script4_gaussian_noise.py` | `scripts/` | Augmentation using **Gaussian Noise Addition**. |
-| `script5_combined_augmentations.py` | `scripts/` | Augmentation combining **all previous techniques**. |
+| `script1.py` | `scripts/` | Augmentation using **Simple Voltage Shift** and **Current Scaling**. |
+| `script2.py` | `scripts/` | Augmentation using **Baseline Drift**. |
+| `script3.py` | `scripts/` | Augmentation using **Peak Broadening** and **Voltage Wrapping**. |
+| `script4.py` | `scripts/` | Augmentation using **Gaussian Noise Addition**. |
+| `script5.py` | `scripts/` | Augmentation combining **all previous techniques**. |
 
 ---
 
